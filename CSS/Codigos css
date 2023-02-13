@@ -1,0 +1,41 @@
+<link rel="stylesheet" type="text/css" href="css/..." media="all" />  -  FOLHA DE ESTILO LINKADAS
+
+<style type="text/css"></style>  -  COLOCA COR NO TEXTO INDICADO PELO ELEMENTO
+
+*{...}  -  CELETOR UNIVERSAL
+
+{color:...;}  -  COR DO TEXTO
+
+{font-family:"...";}  -  FONTE DO TEXTO 
+
+media="all"  -  ESTILO DA PAGINA EM CEL,TV,PC...
+
+@import url("css/...") screen, projection;  -  
+
+class=" X "  -  CLASSE DE UM ELEMENTO
+
+.X {...}  -  DETERMINA A CLASSE
+
+id=" Z "  -  USADO PRA COLOCAR NME DA DIV
+
+#Z {...}  -  MUDA OQ TIVER DENTRO DA DIV
+
+text-decoration:underline;  -  ESTILO DO TEXTO
+
+E[A]  -  USADO QUANDO TEM ATRIBUTO DENTRO DE UM ELEMENTO
+
+font-size:...px;  -  MUDA O TAMANHO DA LETRA
+
+E A {...}  -  CELETOR COMPOSTO  
+
+E > A {...}  -  CELETOR COMPOSTO DIRECIONANDO PRA UM FILHO DO ELEMENTO
+
+E + E {...}  -  CELETOR COMPOSTO 
+
+E - ELEMENTO
+A - ATRIBUTO
+
+
+
+
+

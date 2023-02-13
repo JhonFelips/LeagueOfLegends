@@ -1,0 +1,138 @@
+<html></html>  -  INICIO E FINAL DO HTML
+
+<head></head>  -  CABEÇA DA PAGINA
+
+<title></title>  -  TITULO DA PAGINA
+
+<body></body>  -  CORPO DA PAGINA
+
+<h1></h1> ... <h6></h6>  -  CABEÇALHO DA PAGINA
+
+<table></table>  -  TABELA
+
+<form></form>  -  CRIA UM FORMULARIO
+
+action="..."  -  INFORMA PRA ONDE VAI OS DADOS DO FORMULARIO
+
+<fieldset></fieldset>  -  CRIA UMA BORDA NO FORMULARIO
+
+<legend></legend>  -  LEGENDA DA BORDA
+
+method="post ou get"  -  METODE DE COMO VAI APARECER AS INFORMAÇOES NO FORMULARIO
+
+<border></border>  -  CRIA BORDA NA TABELA
+
+<cellpadding></cellpadding>  -  ESPAÇAMENTO DENTRO DA TABELA
+
+<tr></tr>  -  LINHA NA TABELA
+
+<td></td>  -  QUANTIDADE DE COISAS NA LINHA
+
+<p></p>  -  PARAGRAFO
+
+<div></div>  -  ESTRUTURA UM BLOCO
+
+<pre></pre>  -  PRE FORMATA OS TEXTO DO JEITO QUE FOI ESCRITO
+
+<blockqote></blockqote>  -  CITAÇAO EM BLOCO
+
+<address></address>  -  MUDA A ESCRITA
+
+<span></span>  -  ESTRUTURA UMA LINHA>
+
+<b></b>  -  NEGRITO
+
+<i></i>  -  ITALICO
+
+<tt></tt>  -  TODAS AS LETRAS OCUPAM O MESMO ESPAÇO
+
+<del></del>  -  EXCLUIR
+
+<sup></sup>  -  CIMA
+
+<sub></sub>  -  BAIXO
+
+<em></em>  -  ENFASE
+
+<strong></strong>  -  ENFASE MAIS FORTE
+
+<q></q>  -  SITAÇAO
+
+<big></big>  -  GRANDE
+
+<small></small>  -  BAIXO
+
+<ul></ul>  -  LISTA NAO ORDENADA
+
+<ol></ol>  -  LISTA ORDENADA
+
+<dl></dl>  -  LISTA DE DEFINIÇAO
+
+<li></li>  -  ELEMENTO DE LISTA
+
+<dt></dt>  -  TERMO
+
+<dd></dd>  -  DEFINIÇAO
+
+<br />  -  QUEBRE LINHA
+
+<hr />  -  QUEBRA DE LINHA CIMA E BAIXO
+
+<img />  -  IMAGEM
+
+<input type="text" id="nome" /><br />  -  CRIA UMA LINHA DE PREENCHIMENTO DO NOME
+
+<input type="password" id="senha" /><br />  -  CRIA UMA LINHA DE PREENCHIMENTO DA SENHA
+
+<input type="radio" name="sexo" value="M" /><br />
+                                                    -  CRIA UMA LINHA DE PREENCHIMENTO DE SEXOS
+<input type="radio" name="sexo" value="F" /><br />
+
+<map></map>  -  MAPEIA A IMAGEM
+
+<area shape="poly" coords="..." href="..." alt="..." />  -  COLOCA UM LINK EM QUALQUER LUGAR DA IMAGEM
+
+../  -  NIVEIS DE PESQUISA
+
+<a href="#..."></a>  -  LINK NA MESMA PAGINA
+
+<a href="..." target="_blank"></a>  -  ABRIR UMA NOVA ABA
+
+<a href="mailto:...?cc=...&subject=...&body=..."></a>  -  LINK PARA EMAIL
+
+<a href="callto:..."></a>  -  LINK PARA TELEFONE
+
+<a href="skype:...?call"></a>  -  LINK PARA LIGAÇAO NO SKYPE
+
+<a href="skype:...?chat"></a>  -  LINK PARA MENSAGEM NO SKYPE
+
+<a href="msnim:...?contact=..."></a>  -  LINK PARA MENSAGEM NO MESSENGER  
+ 
+<a id="..."></a>  -  LINK ANCORA
+
+src="..."  -  CODIGO DA IMAGEM
+
+alt="..."  -  CASO N APAREÇA A IMAGEM
+
+align="center"  -  ALINHAR O TEXTO NO MEIO
+
+style="width:...px;"  -  TAMANHO DA IMAGEM
+
+style="text-aling:center;"  -  ALINHAR IMAGEM  OU TEXTO NO MEIO
+
+style="background-color:rgb;"  -  TROCAR A COR DO FUNDO DA PAGINA
+
+style="color:rgb;"  -  ESTILO VISUAL "ESCOLER O RGB" PODE SER "DECIMAL,HEXADECIMAL,NOMES"
+             R - RED
+              G - GREE         @ WWW HTML COLOR PICKER @
+               B - BLUE
+HEXADECIMAL                    RGB      
+PRETO      #000000             rgb(0,0,0)
+VERMELHO   #FF0000             rgb(255,0,0)
+VERDE      #00FF00             rgb(0,255,0)
+AZUL       #00FFFF             rgb(0,0,255)
+AMARELO    #FFFF00             rgb(255,255,0)
+AZUL CLARO #00FFFF             rgb(0,255,255)
+ROSA       #FF00FF             rgb(255,0,255)
+CINZA      #C0C0C0             rgb(192,192,192)
+BRANCO     #FFFFFF             rgb255,255,255)
